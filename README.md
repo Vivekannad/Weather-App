@@ -69,4 +69,4 @@ Feel free to fork this repository and submit pull requests to contribute to this
 ## License
 
 This project is open source and available under the MIT License.
-(![App demo](<Screenshot 2025-01-27 003516.png>))
+![App demo](<Screenshot 2025-01-27 003516.png>)
