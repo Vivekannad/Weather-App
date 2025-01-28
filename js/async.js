@@ -1,5 +1,5 @@
-const API_KEY = 'a1da50b697cef0861a7a70b0f6461024';
-// let city = 'karachi'
+import {API_KEY} from "./API.js"
+
 const WEATHER_API  = `https://api.openweathermap.org/data/2.5/weather?&appid=${API_KEY}&units=metric&q=`;
 
 export async function getWeather (city) {
