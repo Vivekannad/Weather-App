@@ -2,6 +2,9 @@
 
 A sleek and modern weather application that provides real-time weather information for any city worldwide. Built with HTML, CSS, and JavaScript, this app utilizes the OpenWeatherMap API to deliver accurate weather data.
 
+## Demo
+Check out the live version of the app here: [App](https://forecastheaven.netlify.app/)
+
 ## Features
 
 - **Real-time Weather Data**: Get current weather information for any city
@@ -21,6 +24,9 @@ A sleek and modern weather application that provides real-time weather informati
 - JavaScript (ES6+)
 - OpenWeatherMap API
 - Modular JavaScript with ES6 Modules
+
+## Preview
+![App demo](<Screenshot 2025-01-27 003516.png>)
 
 ## Project Structure
 
@@ -69,4 +75,3 @@ Feel free to fork this repository and submit pull requests to contribute to this
 ## License
 
 This project is open source and available under the MIT License.
-![App demo](<Screenshot 2025-01-27 003516.png>)
